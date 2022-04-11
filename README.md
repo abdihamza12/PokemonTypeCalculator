@@ -9,3 +9,10 @@ Current Issues with the code:
   - The excel spreadsheet that I used to gather data from is only updated up to generation 5 of pokemon (649 / 898 PKMN)
   - Window does not expand when text goes beyond the frame
   - When a generic pokemon type is searched (pure water), the buttons will spread apart from each other. 
+
+
+Libraries Used:
+  - os
+  - pillow   (for image processing)
+  - tkinter  (for gui)
+  - openpyxl (for data manipulation)
